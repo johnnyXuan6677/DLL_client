@@ -1,2 +1,2 @@
-# the code is for testing dll library for client 
+# THIS IS FOR DLL LIBRARY CONSOLE 
 we can't actually execute dll library directly so I build a console client to import DLL file for testing 
